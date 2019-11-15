@@ -109,13 +109,13 @@ h1, h2, h3, h4, h5, h6, p {
 
 .fullscreen-img-8 {
   /* The image used */
-  background-image: url("../img/fam2");
+  background-image: url("../img/fam2%20(1).jpg");
 
   /* Full height */
   height: 100%;
 
   /* Center and scale the image nicely */
-  background-position: center;
+  background-position:center;
   background-repeat: no-repeat;
   background-size: cover;
 }
